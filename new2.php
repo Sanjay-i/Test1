@@ -1,0 +1,1 @@
+<h1>new2 file created in branch2</h1>
